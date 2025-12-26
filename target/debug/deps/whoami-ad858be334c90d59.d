@@ -1,0 +1,15 @@
+/home/khan/mvre_hub/target/debug/deps/libwhoami-ad858be334c90d59.rmeta: /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/lib.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/api.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/arch.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/conversions.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/desktop_env.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/fallible.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/language.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/os.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/os/unix.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/platform.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/result.rs
+
+/home/khan/mvre_hub/target/debug/deps/whoami-ad858be334c90d59.d: /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/lib.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/api.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/arch.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/conversions.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/desktop_env.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/fallible.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/language.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/os.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/os/unix.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/platform.rs /home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/result.rs
+
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/lib.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/api.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/arch.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/conversions.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/desktop_env.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/fallible.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/language.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/os.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/os/unix.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/platform.rs:
+/home/khan/.cargo/registry/src/index.crates.io-6f17d22bba15001f/whoami-1.5.2/src/result.rs:
