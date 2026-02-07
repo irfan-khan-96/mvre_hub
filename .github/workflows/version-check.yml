@@ -1,0 +1,32 @@
+name: version-check
+
+on:
+  pull_request:
+  push:
+    branches:
+      - main
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Verify version format
+        run: |
+          VERSION=$(rg -n '^version\\s*=\\s*"' Cargo.toml | head -n1 | sed -E 's/.*"([^"]+)".*/\\1/')
+          if ! echo "$VERSION" | rg -q '^[0-9]+\\.[0-9]+\\.[0-9]+$'; then
+            echo "Invalid version in Cargo.toml: $VERSION"
+            exit 1
+          fi
+
+      - name: Ensure version not tagged yet (on main)
+        if: github.ref == 'refs/heads/main'
+        run: |
+          VERSION=$(rg -n '^version\\s*=\\s*"' Cargo.toml | head -n1 | sed -E 's/.*"([^"]+)".*/\\1/')
+          git fetch --tags --quiet
+          if git tag -l "v${VERSION}" | rg -q .; then
+            echo "Tag v${VERSION} already exists. Bump Cargo.toml version."
+            exit 1
+          fi

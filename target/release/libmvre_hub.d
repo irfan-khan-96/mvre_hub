@@ -1,0 +1,1 @@
+/home/khan/mvre_hub/target/release/libmvre_hub.rlib: /home/khan/mvre_hub/src/cli.rs /home/khan/mvre_hub/src/config.rs /home/khan/mvre_hub/src/deploy.rs /home/khan/mvre_hub/src/lib.rs /home/khan/mvre_hub/src/services.rs /home/khan/mvre_hub/src/systemd.rs /home/khan/mvre_hub/src/templates.rs /home/khan/mvre_hub/src/util.rs
